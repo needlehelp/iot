@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/21606d42-6cdb-43e1-bae5-2f8420161c92)
 # IoT Needle Insertion Device
 
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=flat&logo=arduino&logoColor=white)
@@ -11,6 +12,7 @@ This project consists of an IoT-enabled device capable of rotating a mechanism a
 - **Needle Insertion Mechanism**: Controlled via a rotating motor.
 - **IoT Integration**: Can be controlled and monitored remotely.
 - **Customizable Software**: Written in Python with Arduino firmware for device control.
+
 
 ## Installation
 
