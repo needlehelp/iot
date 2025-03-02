@@ -11,14 +11,14 @@ This project consists of an IoT-enabled device capable of rotating a mechanism a
 ### Features:
 - **Needle Insertion Mechanism**: Controlled via a rotating motor.
 - **IoT Integration**: Can be controlled and monitored remotely.
-- **Customizable Software**: Written in Python with Arduino firmware for device control.
+- **Customizable Software**:This project is implemented using Arduino (C++) for controlling the motor on a Funduino Uno..
 
 
 ## Installation
 
 ### Hardware Setup:
 1. **Assemble the device** by connecting the needle mechanism to the rotating motor.
-2. **Connect the motor** to the Arduino board (e.g., Arduino Uno).
+2. **Connect the motor** to the Funduino board (e.g., Funduino Uno).
 3. **Ensure IoT capabilities** by connecting your device to a Wi-Fi network, if needed, using a Wi-Fi module like the ESP8266.
 
 ### Software Setup:
